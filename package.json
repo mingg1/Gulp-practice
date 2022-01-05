@@ -17,14 +17,19 @@
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.7",
     "@babel/register": "^7.16.7",
+    "del": "^6.0.0",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-bro": "^2.0.0",
     "gulp-csso": "^4.0.1",
     "gulp-image": "^6.2.1",
     "gulp-pug": "^5.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-webserver": "^0.9.1",
-    "node-sass": "^7.0.1",
-    "del": "^6.0.0",
-    "gulp-autoprefixer": "^8.0.0"
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "babelify": "^10.0.0",
+    "uglifyify": "^5.0.2"
   }
 }
