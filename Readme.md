@@ -4,8 +4,8 @@ Learn Gulp by building an development environment.
 
 ## Tasks
 
-- Pug compliation
-- Scss compliation
+- Pug compilation
+- Scss compilation
 - Webserver and watching files
 - Image optimization
 - Babel support
